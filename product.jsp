@@ -8,23 +8,22 @@
 </head>
 <body>
 <table border=3>
-<tr><td><img src="resources/images/comic.png" width="300" height="200">
+<tr><td><img src="resources/images/comic.jpg" width="300" height="200">
 </td>
 <td><img src="resources/images/ent1.jpg" width="300" height="200">
 </td>
-<td><img src="resources/images/horror.png" width="300" height="200">
+<td><img src="resources/images/bio.jpg" width="300" height="200">
+</td></tr><tr><td><img src="resources/images/comic.jpg" width="300" height="200">
+</td>
+<td><img src="resources/images/ent1.jpg" width="300" height="200">
+</td>
+<td><img src="resources/images/bio.jpg" width="300" height="200">
 </td></tr>
-<tr><td><img src="resources/images/comic.png" width="300" height="200">
+<tr><td><img src="resources/images/comic.jpg" width="300" height="200">
 </td>
 <td><img src="resources/images/ent1.jpg" width="300" height="200">
 </td>
-<td><img src="resources/images/horror.png" width="300" height="200">
-</td></tr>
-<tr><td><img src="resources/images/comic.png" width="300" height="200">
-</td>
-<td><img src="resources/images/ent1.jpg" width="300" height="200">
-</td>
-<td><img src="resources/images/horror.png" width="300" height="200">
+<td><img src="resources/images/bio.jpg" width="300" height="200">
 </td></tr>
 </table>
 

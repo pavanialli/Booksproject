@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Stories page
+hello product page
 </body>
 </html>

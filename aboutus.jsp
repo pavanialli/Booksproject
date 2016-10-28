@@ -4,9 +4,20 @@
 <html>
 <head>
 <title>Insert title here</title>
+
+<style>
+body{background: url('resources/images/bg.jpg') no-repeat center center fixed;
+     background-size: cover;
+}
+</style>
 </head>
 <body>
-<div style= "text-align:justify;height:400px;width:500px;padding:15px; border-style: medium;border-width: medium;">
+<center>
+<table><tr>
+<td><img src="resources/images/aboutus.jpg" width="800" height="200">
+</td></tr></table>
+
+<div style= "text-align:justify;height:400px;width:900px;padding:15px; border-style: medium;border-width: medium;">
     
     Welcome to the eBooks-Library - Now in our 13th year, we
 	remain one of the largest eBooks sites on the web. Whether you're
@@ -34,5 +45,6 @@
 	when it comes to sharing books with their community.
 
 </div>
+</center>
 </body>
 </html>

@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Stories page
+hello Supplier page
 </body>
 </html>

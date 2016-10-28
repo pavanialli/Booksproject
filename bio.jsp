@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Stories page
+biography page 
 </body>
 </html>

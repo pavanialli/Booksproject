@@ -5,35 +5,51 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
+
+   <style>
+   body{background: url('resources/images/bg.jpg') no-repeat center center fixed;
+     background-size: cover;
+       }
+   </style>
 </head>
+
 <body bgcolor="pink">
-<form>
+
+<form><center>
+<h1>Sign Up</h1>
+
 <table>
-First Name:<input type="text"name="txtFName" required autofocus/> <br>
-Middle Name:<input type="text"name="txtMName" required/> <br>
-Last Name:<input type="text"name="txtLName"/> <br>
+    <tr><td>
+    First Name:</td><td><input type="text"name="txtFName" required autofocus/>
+    </td></tr>
+    
+    <tr><td>Middle Name:</td><td><input type="text"name="txtMName" required/>
+    </td></tr>
+    <tr><td>Last Name:</td><td><input type="text"name="txtLName"/>
+    </td></tr>
 
-phone:<input type="number" name="numPh"/> <br>
-Email Id:<input type="email" name="emailid"/> <br>
+    <tr><td>phone:</td><td><input type="number" name="numPh"/></td></tr>
+    <tr><td>Email Id:</td><td><input type="email" name="emailid"/></td></tr>
 
-Address<textarea rows="10" cols="30"
-name="txtadd"></textarea><br>
+    <tr><td>Address</td><td><textarea rows="10" cols="30"name="txtadd"></textarea></td></tr>
 
-Date Of Birth: <input type="date" name="dob"/> <br>
+    <tr><td>Date Of Birth:</td><td><input type="date" name="dob"/></td></tr>
 
-<fieldset>
-<legend>Gender</legend><br>
-Male<input type="radio"name="rad1"/>
-Female<input type="radio"name="rad1"/></fieldset> <br>
+<tr><td><fieldset>
+<legend>Gender</legend></td><td>
+Male<input type="radio"name="rad1"/></td><td>
+Female<input type="radio"name="rad1"/></td><td></fieldset></td></tr>
 
-<!-- <fieldset>
-<legend>Hobbies</lengend><br>
-Music:<input type="checkbox"name="chk1"/><br>
-Reading:<input type="checkbox"name="chk2"/><br> --> 
+                                   <!-- <fieldset>
+                                   <td><legend>Hobbies</lengend></td>
+                                   <td>Music:</td><input type="checkbox"name="chk1"/><br>
+                                   Reading:<input type="checkbox"name="chk2"/><br> --> 
 
-<input type="submit" value="Register"/>
-<input type="Reset" Value="cancel"/>
+<tr><td><input type="submit" value="Register"/></td>
+    <td><input type="Reset" Value="cancel"/></td>
+</tr>
 </table>
 </form>
+</center>
 </body>
 </html>
